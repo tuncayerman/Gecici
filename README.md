@@ -42,7 +42,7 @@ App
 
 
 ## Expected Outcome
-![Project 004 Snapshot](Project_004_1.png)
+![MERN](./images/mern.jpg)
 
 
 ## Objective
