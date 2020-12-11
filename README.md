@@ -8,7 +8,11 @@ Project aims to create an e-commerce website site page.
 ## Problem Statement
 - My company has recently started on a project that aims to create an e-commerce website page. The project was requested to be completed by December 31th, 2020. 
 
-- The project should preferably be created on React. The application should include the following functions. Listing customers, viewing customer details, listing orders and viewing order details. 
+- The project should preferably be created on React. The application should include the following functions. 
+-- Listing customers
+-- Viewing customer details
+-- listing orders
+-- Viewing order details. 
 
 - The State method should be selected globally.
 
